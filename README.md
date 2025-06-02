@@ -10,9 +10,8 @@ Proyek ini bertujuan untuk membangun sistem cerdas yang mampu mendeteksi, melaca
 - **Python, PyTorch, OpenCV, NumPy, Pandas**
 
 ##  Arsitektur Sistem
-[Picture12.png](https://postimg.cc/kBH0GWrC)
-[Picture1.png](https://postimg.cc/Z0wtk1VC)
-
+[![Picture12.png](https://i.postimg.cc/nhVpd10X/Picture12.png)](https://postimg.cc/kBH0GWrC)
+[![Picture1.png](https://i.postimg.cc/gkWYhphq/Picture1.png)](https://postimg.cc/Z0wtk1VC)
 
 
 ## Hasil Utama
