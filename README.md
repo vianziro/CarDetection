@@ -10,24 +10,10 @@ Proyek ini bertujuan untuk membangun sistem cerdas yang mampu mendeteksi, melaca
 - **Python, PyTorch, OpenCV, NumPy, Pandas**
 
 ##  Arsitektur Sistem
+[Picture12.png](https://postimg.cc/kBH0GWrC)
+[Picture1.png](https://postimg.cc/Z0wtk1VC)
 
-```text
-[ Video Input ]
-       ↓
-[ YOLOv8 - Deteksi Mobil ]
-       ↓
-[ DeepSORT - Pelacakan Objek ]
-       ↓
-[ Crop Gambar Mobil Detected ]
-       ↓
-[ ResNet50 - Klasifikasi Merek Mobil ]
-       ↓
-[ Mapping Merek ke Kategori (MPV, SUV, dll) ]
-       ↓
-[ Visualisasi + Log ke CSV + Counting ]
-       ↓
-[ Output Video Akhir + Statistik ]
-```
+
 
 ## Hasil Utama
 1. Akurasi klasifikasi kendaraan: 95.05%
